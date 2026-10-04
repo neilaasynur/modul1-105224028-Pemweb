@@ -4,3 +4,4 @@ jadi kemungkinan produk yang akan aku buat adalah sebuah website penjualan produ
 aku mau buat sebuah website yang bisa digunakan ayah aku untuk menjual buah durian.  
 permasalahan yang ada sekarang adalah, cakupan pasar yang masih kecil dan penjualan secara manual dari mulut ke mulut dari pembeli saja   
 jadi singkatnya adalah pembuatan website penjualan hasil kebun keluarga
+oke segini dulu aja
